@@ -15,6 +15,9 @@ Estagiário de Projetos, Automações e Riscos @Itau Unibanco [12/2019-01/2021]
 Estágiário de Gestão de Qualidade Fábrica @PEPSICO [08/2018-11/2019]
 
 ### Projetos em Ciências de Dados
-Projeto 1: Criação de um modelo preditivo para classificar a categoria de crédito (bons ou maus pagadores) de novos clientes de crédito, baseado em dados de clientes que solicitaram crédito a um banco alemão. Base "Credit" do Kaggle. Fonte (adaptado): https://www.kaggle.com/code/kabure/predicting-credit-risk-model-pipeline
+Projeto 1: Criação de um modelo preditivo para classificar a categoria de crédito (bons ou maus pagadores) de novos clientes de crédito, baseado em dados de clientes que solicitaram crédito a um banco alemão. Base "Credit" do Kaggle. 
+Link: https://github.com/tbagalhi/portfolio/blob/main/Case%20Classifica%C3%A7%C3%A3o%20Cr%C3%A9dito.ipynb
 
-Projeto 2: Criação de um modelo preditivo para classificar músicas lentas e agitadas utilizando a base de dados "Spotify Tracks Dataset" do Kaggle. Fonte https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
+
+Projeto 2: Criação de um modelo preditivo para classificar músicas lentas e agitadas utilizando a base de dados "Spotify Tracks Dataset" do Kaggle. 
+Link: https://github.com/tbagalhi/portfolio/blob/main/Case%20Classifica%C3%A7%C3%A3o%20M%C3%BAsicas%20Spotify.ipynb
