@@ -1,7 +1,7 @@
 # Data Scientist
 
-###Formação
+### Formação
 
-###Experiência
+### Experiência
 
-###Projetos 
+### Projetos 
