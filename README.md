@@ -19,15 +19,15 @@
   
   Criação de um modelo preditivo para classificar a categoria de crédito (bons ou maus pagadores) de novos clientes de crédito, baseado em dados de clientes que solicitaram crédito a um banco alemão. Base "Credit" do Kaggle. 
 
-Link: https://github.com/tbagalhi/portfolio/blob/main/Case%20Classifica%C3%A7%C3%A3o%20Cr%C3%A9dito.ipynb
+  Link: https://github.com/tbagalhi/portfolio/blob/main/Case%20Classifica%C3%A7%C3%A3o%20Cr%C3%A9dito.ipynb
 
 * Projeto 2: 
 
   Criação de um modelo preditivo para classificar músicas lentas e agitadas utilizando a base de dados "Spotify Tracks Dataset" do Kaggle. 
 
-Link: https://github.com/tbagalhi/portfolio/blob/main/Case%20Classifica%C3%A7%C3%A3o%20M%C3%BAsicas%20Spotify.ipynb
+  Link: https://github.com/tbagalhi/portfolio/blob/main/Case%20Classifica%C3%A7%C3%A3o%20M%C3%BAsicas%20Spotify.ipynb
 
 * Projeto 3:
   Criação de um modelo preditivo de regressão para prever preços de casas utilizando a base de dados "house_prices".
 
-Link: https://github.com/tbagalhi/portfolio/blob/main/Case%20Regress%C3%A3o%20Pre%C3%A7os%20de%20Casas.ipynb
+  Link: https://github.com/tbagalhi/portfolio/blob/main/Case%20Regress%C3%A3o%20Pre%C3%A7os%20de%20Casas.ipynb
