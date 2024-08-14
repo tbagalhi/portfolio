@@ -28,6 +28,7 @@
   Link: https://github.com/tbagalhi/portfolio/blob/main/Case%20Classifica%C3%A7%C3%A3o%20M%C3%BAsicas%20Spotify.ipynb
 
 * Projeto 3:
+  
   Criação de um modelo preditivo de regressão para prever preços de casas utilizando a base de dados "house_prices".
 
   Link: https://github.com/tbagalhi/portfolio/blob/main/Case%20Regress%C3%A3o%20Pre%C3%A7os%20de%20Casas.ipynb
